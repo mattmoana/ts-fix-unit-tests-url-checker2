@@ -30,4 +30,4 @@ jobs:
 
       # Run tests
       - name: run pass tests
-        run: npx jest tests/password.test.ts
+        run: npx jest tests/url-checker.test.ts
